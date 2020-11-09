@@ -1,6 +1,5 @@
 # California-fg-trees
 ![Daytime in LA](https://i.imgur.com/m0jKJn6.png)
-![Evening landing in the B789 at LAX](https://i.imgur.com/w6dqI18.png)
 
 Adds palm trees to, and improves the regional texturing of California in FlightGear!
 
